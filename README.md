@@ -1,1 +1,1 @@
-# VirtualPetProject2
+# VirtualPet2
